@@ -32,7 +32,9 @@ iii)when c = 5
 note; 
 Computed Damping Ratios (m = 2, k = 4):
 c = 0.1 → ζ ≈ 0.018 (highly underdamped)
+
 c = 2   → ζ ≈ 0.354 (underdamped)
+
 c = 5   → ζ ≈ 0.884 (near-critical but underdamped)
 
 Questions:
