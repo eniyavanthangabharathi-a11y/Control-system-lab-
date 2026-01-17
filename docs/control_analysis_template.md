@@ -21,6 +21,6 @@ G = ---------------
     2 s^2 + 2 s + 4
 ## 3. Stability Check
 - Open-loop poles:
-  -0.5000 + 1.3229i
-  -0.5000 - 1.3229i
+-0.5000 + 1.3229i
+-0.5000 - 1.3229i
 - Stable / unstable:
