@@ -5,7 +5,7 @@
 
 % Parameters
 Ixx = 0.02;   % Roll moment of inertia (kg·m^2)
-L   = 0.05;    % Control effectiveness (Nm per unit input)
+L   = 0.1;    % Control effectiveness (Nm per unit input)
 
 % State-space model
 A = [ 0      1;
